@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.tottus.com.pe	TRUE	/	FALSE	1999999999	__cf_bm	YCtW1gmYuhYkQryLc20jiv3Y7qRPT0IZ8JZEjrrJG4s-1667489648-0-ARG4Yk1LqHrSY7TEzK8UyxjGMC+7gUMCbXHQ5cJWcTuDuJZJ+gzjIBl2ozIAXSjIgJ8vvDreaSX49ZgG8jNTmlUfjSmPPM+lmrEI6y177tNf
+www.tottus.com.pe	TRUE	/	FALSE	1999999999	SameSite	None
+
